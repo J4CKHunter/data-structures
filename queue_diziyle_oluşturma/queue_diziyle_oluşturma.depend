@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576678234 source:c:\users\erdem\desktop\veri yapýlarý\queue_diziyle_oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

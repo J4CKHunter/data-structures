@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576702169 source:c:\users\erdem\desktop\veri yapýlarý\queue_linked_lists_ile_oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
