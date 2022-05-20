@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576670630 source:c:\users\erdem\desktop\veri yapıları\stack_linked_lists_ile_olusturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
